@@ -1,0 +1,2 @@
+c:\users\perk\documents\visual studio 2015\Projects\PreWork Problem 5\PreWork Problem 5\bin\Debug\PreWork Problem 5.exe.config
+c:\users\perk\documents\visual studio 2015\Projects\PreWork Problem 5\PreWork Problem 5\obj\Debug\PreWork Problem 5.csprojResolveAssemblyReference.cache
